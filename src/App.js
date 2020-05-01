@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Creating a Video Chat Application
         </a>
       </header>
     </div>
